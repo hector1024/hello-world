@@ -1,6 +1,6 @@
 # Hello World Package for PHP Composer #
 
-This is a hello world package for php composer beginners tutorial.frfrrf
+This is a hello world package for php composer beginners tutorial.frfrrfeeeee
 read more from http://rivsen.github.io/post/how-to-publish-package-to-packagist-using-github-and-composer-step-by-step/
 
 ## Usage ##
